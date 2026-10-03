@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas
 
-Um gerenciador de tarefas simples desenvolvido em Python como meu primeiro projeto independente, fora de atividades de cursos.
+Um gerenciador de tarefas simples desenvolvido em Python.
 
 Este projeto surgiu a partir de um gerenciador de tarefas que desenvolvi anteriormente em C. A ideia de refazer o projeto em Python foi uma forma de praticar a linguagem e perceber como os mesmos conceitos poderiam ser aplicados em uma linguagem diferente.
 
